@@ -1,15 +1,14 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Building a Decentralized Africa",
+    "paragraph": "Our vision is to learn, build and innovate with decentralized solutions that solve our common problems."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We are focused and resolute to induce solutions. You can identify us with the following terms:",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Blockchain Technology",
+      "Decentralised Solutions",
+      "Web3 Education"
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -131,30 +130,43 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/Dennis.jpg",
+      "name": "Dennis",
+      "job": "founder/Blockchain engineer"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/Uche.jpg",
+      "name": "Uche",
+      "job": "JS developer/Blockchain Analyst"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/Arinze.jpg",
+      "name": "Arinze",
+      "job": "Full stack Software Developer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/Victor.jpg",
+      "name": "David",
+      "job": "Software engineer"
+    },
+    {
+      "img": "img/team/Tochukwu.jpg",
+      "name": "Tochukwu",
+      "job": "Designer/crypto enthusiast"
+    }, 
+    {
+      "img": "img/team/David.jpg",
+      "name": "David",
+      "job": "Data scientist"
     }
+    
+    
+    
+    
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "phone": "+234",
+    "email": "Techadilly@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
