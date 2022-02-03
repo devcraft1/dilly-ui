@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Building a Decentralized Africa",
+    "title": "Building a Decentralized future",
     "paragraph": "Our vision is to learn, build and innovate with decentralized solutions that solve our common problems."
   },
   "About": {
@@ -66,35 +66,18 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Decentralised solutions",
+      "text": "Our core mission is to build decentralised solutions."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Web3 Education/Training",
+      "text": "We have a team of well trained educators willing to teach the next generation."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Crypto trading signal",
+      "text": "Prompt trading signal to boast your porfolio."
     }
+
   ],
   "Testimonials": [
     {
@@ -131,8 +114,8 @@
   "Team": [
     {
       "img": "img/team/Dennis.jpg",
-      "name": "Dennis",
-      "job": "founder/Blockchain engineer"
+      "name": "Dennis Ukonu",
+      "job": "Founder/Blockchain engineer"
     },
     {
       "img": "img/team/Uche.jpg",
@@ -145,22 +128,20 @@
       "job": "Full stack Software Developer"
     },
     {
-      "img": "img/team/Victor.jpg",
-      "name": "David",
-      "job": "Software engineer"
-    },
-    {
       "img": "img/team/Tochukwu.jpg",
       "name": "Tochukwu",
       "job": "Designer/crypto enthusiast"
     }, 
     {
+      "img": "img/team/Victor.jpg",
+      "name": "David",
+      "job": "Software engineer"
+    },
+    {
       "img": "img/team/David.jpg",
       "name": "David",
       "job": "Data scientist"
     }
-    
-    
     
     
   ],
