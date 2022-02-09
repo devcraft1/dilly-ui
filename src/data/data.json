@@ -120,36 +120,45 @@
   ],
   "Team": [
     {
-      "img": "img/team/Dennis.jpg",
-      "name": "Dennis Ukonu",
-      "job": "Founder/Blockchain engineer"
+      "img": "img/team/02.jpg",
+      "name": "none",
+      "job": "Founder"
     },
     {
-      "img": "img/team/Uche.jpg",
-      "name": "Uche",
-      "job": "JS developer/Blockchain Analyst"
+      "img": "img/team/02.jpg",
+      "name": "none",
+      "job": "Founder"
     },
     {
-      "img": "img/team/Arinze.jpg",
-      "name": "Arinze",
-      "job": "Full stack Software Developer"
+      "img": "img/team/02.jpg",
+      "name": "none",
+      "job": "Founder"
     },
     {
-      "img": "img/team/Tochukwu.jpg",
-      "name": "Tochukwu",
-      "job": "Designer/crypto enthusiast"
-    }, 
-    {
-      "img": "img/team/Victor.jpg",
-      "name": "David",
-      "job": "Software engineer"
+      "img": "img/team/02.jpg",
+      "name": "none",
+      "job": "Founder"
     },
     {
-      "img": "img/team/David.jpg",
-      "name": "David",
-      "job": "Data scientist"
+      "img": "img/team/02.jpg",
+      "name": "none",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "none",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "none",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "none",
+      "job": "Founder"
     }
-    
     
   ],
   "Contact": {
@@ -182,3 +191,5 @@
     }
   ]
 }
+
+
