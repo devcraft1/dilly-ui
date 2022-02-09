@@ -8,7 +8,11 @@
     "Why": [
       "Blockchain Technology",
       "Decentralised Solutions",
-      "Web3 Education"
+      "Web3 Education",
+      "Decentralised applications",
+      "Technical Research",
+      "NFT(Non fungible token)",
+      "Metaverse"
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -66,16 +70,19 @@
   ],
   "Services": [
     {
+      "icon":"fa fa-code",
       "name": "Decentralised solutions",
       "text": "Our core mission is to build decentralised solutions."
     },
     {
+      "icon":"fa fa-graduation-cap",
       "name": "Web3 Education",
       "text": "We have a team of well trained educators willing to teach the next generation."
     },
     {
-      "name": "Research and content creation",
-      "text": "Chuning out technical writeups based on studies and research."
+      "icon":"fa fa-book",
+      "name": "Research",
+      "text": "meticulous technical research to produce lasting solution."
     }
 
   ],
