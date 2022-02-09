@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Building a Decentralized future",
-    "paragraph": "Our vision is to learn, build and innovate with decentralized solutions that solve our common problems."
+    "paragraph": "Learn, build and innovate."
   },
   "About": {
     "paragraph": "We are focused and resolute to induce solutions. You can identify us with the following terms:",
@@ -70,12 +70,12 @@
       "text": "Our core mission is to build decentralised solutions."
     },
     {
-      "name": "Web3 Education/Training",
+      "name": "Web3 Education",
       "text": "We have a team of well trained educators willing to teach the next generation."
     },
     {
-      "name": "Crypto trading signal",
-      "text": "Prompt trading signal to boast your porfolio."
+      "name": "Research and content creation",
+      "text": "Chuning out technical writeups based on studies and research."
     }
 
   ],
@@ -146,7 +146,7 @@
     
   ],
   "Contact": {
-    "phone": "+234",
+    "phone": "+2347065085718",
     "email": "Techadilly@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
