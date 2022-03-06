@@ -1,9 +1,11 @@
+import "./styles.css";
+
 export const About = (props) => {
   return (
     <div id="about">
       <div className="container">
         <div className="row">
-          <div className="col-xs-12 col-md-6">
+          <div className="col-xs-12 col-md-6 imageContainer">
             {" "}
             <img src="img/techadilly.jpeg" className="img-responsive" alt="" />{" "}
           </div>
@@ -13,7 +15,7 @@ export const About = (props) => {
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               {/* <h3>Why Choose Us?</h3> */}
               <div className="list-style">
-                <div className="col-lg-6 col-sm-6 col-xs-12">
+                <div className="col-lg-6 col-sm-6 col-xs-12 listItems">
                   <ul>
                     {props.data
                       ? props.data.Why.map((d, i) => (
