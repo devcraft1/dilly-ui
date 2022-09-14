@@ -1,21 +1,17 @@
 {
   "Header": {
-    "title": "Building a Decentralized future",
+    "title": "Building a Decentralised future",
     "paragraph": "Learn, build and innovate."
   },
   "About": {
-    "paragraph": "We are focused and resolute to induce solutions. You can identify us with the following terms:",
+    "paragraph": "Dilly Labs was formed early 2022 to solve problems using decentralized principles. It leverages on the concept of Decentralized ledger technology(DLT) like Blockchain to build sustainable solutions that creates value and reignites trust within societies of benefit. We believe the future of value exchange is reliant on distributed-trust systems and we are here to make it seamless. Our focus is:",
     "Why": [
-      "Blockchain Technology",
-      "Decentralised Solutions",
-      "Web3 Education",
-      "Decentralised applications",
-      "Technical Research",
-      "NFT(Non fungible token)",
-      "Metaverse"
+      " Building Blockchain solutions ",
+      "Educating and empowering the common man about Blockchain technology and how it works",
+      "Improving already existing solutions "
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
+      "Decentralised Solutions",
       "Lorem ipsum dolor",
       "Exercitation ullamco",
       "Lorem ipsum dolor"
@@ -72,50 +68,25 @@
     {
       "icon":"fa fa-code",
       "name": "Decentralised solutions",
-      "text": "Our core mission is to build decentralised solutions."
+      "text": "Majority will only adopt DLT solutions if it provides enough reason and solves critical human problems. Our end goal is to release decentralised products that solves basic human need."
     },
     {
       "icon":"fa fa-graduation-cap",
-      "name": "Web3 Education",
-      "text": "We have a team of well trained educators willing to teach the next generation."
+      "name": "Education",
+      "text": "We are prepared to educate socities on the impact of embracing decentralised technology. We are ready to reach out to both urban and rural localities in our quest."
     },
     {
       "icon":"fa fa-book",
       "name": "Research",
-      "text": "Meticulous technical research to produce lasting solution."
+      "text": "Our illmination solemly rest on our ability to search out solutions through dedicated time of study. Research is our light in darkness"
     }
 
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/Dennis.jpg",
+      "text": "\"We started dillyLabs to solve complex problems in the blockchain space.\"",
+      "name": "Dennis Ukonu"
     }
   ],
   "Team": [
@@ -162,8 +133,8 @@
     
   ],
   "Contact": {
-    "phone": "+2347065085718",
-    "email": "Techadilly@gmail.com",
+    "phone": "",
+    "email":"",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
