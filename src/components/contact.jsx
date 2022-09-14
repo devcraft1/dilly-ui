@@ -22,9 +22,19 @@ export const Contact = (props) => {
                             <i className='fa fa-twitter'></i>
                           </a>
                         </li>
-                        <li>
+                        {/* <li>
                           <a href={props.data ? props.data.youtube : '/'}>
                             <i className='fa fa-youtube'></i>
+                          </a>
+                        </li> */}
+                        <li>
+                          <a href={props.data ? props.data.youtube : '/'}>
+                            <i className='fa fa-medium'></i>
+                          </a>
+                        </li>
+                        <li>
+                          <a href={props.data ? props.data.youtube : '/'}>
+                            <i className='fa fa-linkedin'></i>
                           </a>
                         </li>
                       </ul>
@@ -47,7 +57,7 @@ export const Contact = (props) => {
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-phone'></i> Phone
+                  {/* <i className='fa fa-phone'></i> Phone */}
                 </span>{' '}
                 {props.data ? props.data.phone : 'loading'}
               </p>

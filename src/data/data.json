@@ -84,9 +84,9 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/Dennis.jpg",
-      "text": "\"We started dillyLabs to solve complex problems in the blockchain space.\"",
-      "name": "Dennis Ukonu"
+      "img": "img/testimonials/ebubechi.jpeg",
+      "text": "\"Although the project is at the budding stage, the ideologies that surrounds it is superb .\"",
+      "name": "Ebubechi Ezenwanne"
     }
   ],
   "Team": [
@@ -134,7 +134,7 @@
   ],
   "Contact": {
     "phone": "",
-    "email":"",
+    "email":"team@dillyLabs.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
