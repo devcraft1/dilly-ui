@@ -1,3 +1,3 @@
-# Techadilly Website
+# Dilly Blockchain Labs Website
 
 ## Description
