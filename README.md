@@ -1,3 +1,3 @@
-# Dilly Blockchain Labs Website
+# Dilly Blockchain Labs
 
 ## Description
