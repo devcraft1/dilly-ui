@@ -4,11 +4,12 @@
     "paragraph": "Learn, build and innovate."
   },
   "About": {
-    "paragraph": "Dilly Blockchain Labs was formed early 2022 to solve problems using decentralized principles. It leverages on the concept of Decentralized ledger technology(DLT) like Blockchain to build sustainable solutions that creates value and reignites trust within societies of benefit. We believe the future of value exchange is reliant on distributed-trust systems and we are here to make it seamless. Our focus is:",
+    "paragraph": "Dilly Blockchain Labs was formed in January 2022 as a fellowship of enthusiasts in the Blockchain space. It was intended to solve critical problems using decentralized principles. To leverage on the concept of Decentralized ledger technology(DLT) like Blockchain to build sustainable solutions that creates value and reignites trust within societies of benefit. At DillyLabs, we believe the future of value exchange is reliant on distributed-trust systems and we are here to make it seamless. Our focus is:",
     "Why": [
-      " Building Blockchain solutions ",
-      "Educating and empowering the common man about Blockchain technology and how it works",
-      "Developing new ideas and improving already existing solutions"
+      " Building Blockchain solutions.",
+      "Educating and empowering the common man about Blockchain technology and how it works.",
+      "Brainstorming ideas and improving already existing solutions.",
+      "Producing whitepapers, technical business plan and research assistance to help businesses thrive."
     ],
     "Why2": [
       "Decentralised Solutions",
@@ -68,17 +69,17 @@
     {
       "icon":"fa fa-code",
       "name": "Decentralised solutions",
-      "text": "Majority will only adopt Decentralised Ledger Technology if it provides better solution to critical human problems. Our end goal is to release decentralised products that meets human needs."
+      "text": "We build decentralised software products that meet human needs. Mass adoption of this technoloy is only possible when better solutions to critical human problems are created."
     },
     {
       "icon":"fa fa-graduation-cap",
       "name": "Education",
-      "text": "We are prepared to educate socities on the impact of embracing decentralised technology. We are ready to reach out to both urban and rural localities in our quest."
+      "text": "We educate societies, companies and institutions on the impact of embracing decentralised technology."
     },
     {
       "icon":"fa fa-book",
       "name": "Research",
-      "text": "Our illmination solemly rest on our ability to search out solutions through dedicated time of study. Research is our light in darkness"
+      "text": "We aid companies and institutions conduct intensive research on how Blockchain technology can benefit their business. "
     }
 
   ],
