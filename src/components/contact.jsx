@@ -13,7 +13,7 @@ export const Contact = (props) => {
                     <div className='social'>
                       <ul>
                         <li>
-                          <a href={props.data ? props.data.facebook : '/'}>
+                          /*<a href={props.data ? props.data.facebook : '/'}>*/
                             <i className='fa fa-facebook'></i>
                           </a>
                         </li>
@@ -22,11 +22,11 @@ export const Contact = (props) => {
                             <i className='fa fa-twitter'></i>
                           </a>
                         </li>
-                        {/* <li>
+                        <li>
                           <a href={props.data ? props.data.youtube : '/'}>
                             <i className='fa fa-youtube'></i>
                           </a>
-                        </li> */}
+                        </li>
                         <li>
                           <a href={props.data ? props.data.youtube : '/'}>
                             <i className='fa fa-medium'></i>
