@@ -43,6 +43,11 @@ export const Contact = (props) => {
                           </a>
                         </li>
                         <li>
+                          <a href='https://'>
+                            <i className='fa fa-instagram'></i>
+                          </a>
+                        </li>
+                        <li>
                           <a href='https://twitter.com/'>
                             <i className='fa fa-twitter'></i>
                           </a>
