@@ -37,11 +37,11 @@ export const Contact = (props) => {
                             <i className='fa fa-linkedin'></i>
                           </a>
                         </li> */}
-                        <li>
+                        {/* <li>
                           <a href="https://www.facebook.com/dillylabs">
                             <i className='fa fa-facebook'></i>
                           </a>
-                        </li>
+                        </li> */}
                         <li>
                           <a href='https://www.instagram.com/'>
                             <i className='fa fa-instagram'></i>
@@ -62,11 +62,11 @@ export const Contact = (props) => {
                             <i className='fa fa-medium'></i>
                           </a>
                         </li>
-                        <li>
+                        {/* <li>
                           <a href='https://www.linkedin.com/in/dilly-labs-828506253/'>
                             <i className='fa fa-linkedin'></i>
                           </a>
-                        </li>
+                        </li> */}
                       </ul>
                     </div>
                   </div>
